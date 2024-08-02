@@ -1,7 +1,7 @@
 # Hi there, I'm Ishan Sugathadasa 👋
 
 <!--
-**ishansugathadasa/ishansugathadasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ishansugathadasa/ishansugathadasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ishanvinod95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ishansugathadasa/)
@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/pasindumadusanka95?logo=GitHub&style=for-the-badge)
 <br/>
 *************
-- 💻 I’m currently working as a Senior Assiciate Data Engineer at [Acuity Knowledge partners, Sri Lanka](https://www.acuitykp.com/)
+- 💻 I’m currently working as a Senior Associate Data Engineer at [Acuity Knowledge partners, Sri Lanka](https://www.acuitykp.com/)
 - 🌱 I'm currently reading a Master of Computer Science degree at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk)
 - 🌱 I studied at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) for a degree of B.Sc in Computer Science
 <!-- - 🙈 Personal Website: [pasindu senarath](http://pasindusenarath.herokuapp.com/) -->
@@ -33,12 +33,6 @@
 <!-- [![Web Storm](https://img.shields.io/badge/IDE-WebStorm-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/webstorm/) -->
 <br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
